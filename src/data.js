@@ -38,4 +38,4 @@ export const outroSubtext = `Don't ever forget it`;
 // Background Music
 // ==========================
 // Place your .mp3 file inside "public/audio", rename it bg.mp3 or change the path below accordingly if required.
-// export const backgroundMusic = "./audio/bg.mp3";
+export const backgroundMusic = "./audio/bg.mp3";

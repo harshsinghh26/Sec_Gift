@@ -1,6 +1,6 @@
 "use client";
 
-// import { backgroundMusic } from "@/data";
+import { backgroundMusic } from "@/data";
 import { useEffect, useRef } from "react";
 
 export default function Music({ shouldPlay }) {
@@ -15,7 +15,7 @@ export default function Music({ shouldPlay }) {
 
   return (
     <audio ref={audioRef} loop preload="none">
-      {/* <source src={backgroundMusic} type="audio/mpeg" /> */}
+      <source src={backgroundMusic} type="audio/mpeg" />
     </audio>
   );
 }
