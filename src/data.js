@@ -12,7 +12,7 @@ export const complimentsHeading = `My favorite things about you`;
 
 export const compliments = [
   `Being around you makes even normal days feel special.❤️`,
-  `I love how your eyes light up when you talk about things you love.😊`,
+  `I love how your eyes light up and you speak so much when you talk about things you love.😊`,
   `Your laugh is literally my favorite sound. Never stop.❤️`,
 ];
 // Compliments - You can modify compliments as you like
