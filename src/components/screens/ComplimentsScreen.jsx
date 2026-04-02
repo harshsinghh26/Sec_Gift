@@ -28,7 +28,6 @@ const Polaroid = ({ text, colorClass, rotate }) => {
             <Smile className={`w-12 h-12 text-rose-50`} />
           </div>
 
-          {/* Cute handwritten area */}
           <div className="px-2 py-2 bg-white">
             <div className="flex justify-center space-x-1">
               <div className="w-8 h-0.5 bg-rose-200 rounded-full"></div>
